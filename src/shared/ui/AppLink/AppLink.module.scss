@@ -1,0 +1,22 @@
+.colorLink {
+  height: 50px;
+  font-size: var(--fs-m);
+  display: flex;
+  align-items: center;
+
+  &:link {
+    text-decoration: none;
+    margin: 0 25px 0 0;
+    cursor: pointer;
+  }
+
+  transition: color 200ms ease 0s;
+}
+
+.primary {
+    color: var(--primary-color);
+}
+
+.secondary {
+  color: var(--secondary-color);
+}

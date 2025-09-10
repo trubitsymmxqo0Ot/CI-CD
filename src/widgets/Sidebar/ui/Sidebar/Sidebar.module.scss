@@ -1,0 +1,42 @@
+.sidebar {
+  width: 130px;
+  height: calc(100vh - var(--h-l));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: width 0.3s;
+  background: var(--background);
+  color: var(--primary-color);
+}
+
+.collapsed {
+  width: 300px;
+}
+
+.body {
+  flex: 1 1 auto;
+}
+
+.title {
+  font-size: var(--fs-b);
+  margin: 0 0 10px;
+}
+
+.btn {
+  text-align: center;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  transition: background-color 0.3s, color 0.3s;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+
+  &:hover {
+    background: var(--invert-background);
+    color: var(--invert-primary-color);
+  }
+}
+
+.switchers {
+  background-color: transparent;
+}

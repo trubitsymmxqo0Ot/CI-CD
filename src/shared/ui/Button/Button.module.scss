@@ -1,0 +1,14 @@
+.button {
+  display: block;
+  width: 100%;
+  color: var(--primary-color);
+  padding: 25px 0;
+}
+
+.clear {
+  border: 0;
+}
+
+.outline {
+  border: 2px solid var(--primary-color);
+}

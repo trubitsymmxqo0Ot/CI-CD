@@ -1,0 +1,23 @@
+@use "./variables/global.scss";
+@use "./reset.scss";
+@use "./theme/dark.scss";
+@use "./theme/light.scss";
+
+.app {
+  min-height: 100vh;
+  background: var(--background);
+  font-family: var(--family);
+  font-size: var(--font-l);
+  line-height: var(--lh-l);
+}
+
+.page-content {
+  display: flex;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  background: var(--invert-background);
+  color: var(--invert-primary-color);
+}

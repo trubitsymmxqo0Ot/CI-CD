@@ -1,0 +1,13 @@
+:root {
+  --family: arial, "Times New Roman", sans-serif, serif;
+  --fs-l: 16px;
+  --fs-m: 22px;
+  --fs-b: 28px;
+  --lh-l: 24px;
+  --lh-m: 30px;
+  --lh-b: 36px;
+  --font-l: var(--font-l) / var(--lh-l) var(--family);
+  --font-m: var(--font-m) / var(--lh-m) var(--family);
+  --font-b: var(--fs-b) / var(--lh-b) var(--family);
+  --h-l: 50px;
+}

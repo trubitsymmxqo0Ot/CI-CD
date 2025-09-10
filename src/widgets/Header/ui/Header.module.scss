@@ -1,0 +1,9 @@
+.container {
+  width: 100%;
+  display: flex;
+  height: var(--h-l);
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  background: var(--background);
+}
