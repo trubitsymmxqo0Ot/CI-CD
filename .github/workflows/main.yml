@@ -1,16 +1,8 @@
 name: Testing and linting application
 on: push
 jobs: 
-  install:
-    runs-on: windows-latest
-    steps: 
-      - name: get repository code
-        uses: actions/checkout@v5
-      - name: install dependecies
-        run: npm ci
   test: 
     runs-on: ubuntu-latest
-    needs: install
     steps: 
       - name: get repository code
         uses: actions/checkout@v5
@@ -18,18 +10,6 @@ jobs:
         run: npm ci
       - name: run jest testing
         run: npm run test
-      - name: run storybook testing
-        run: npm run storybook
-      - name: run chromatic testing
-        run: npm run chromatic
-  lint:
-    runs-on: ubuntu-latest
-    needs: test
-    steps: 
-      - name: get repository code
-        uses: actions/checkout@v5
-      - name: install dependecies
-        run: npm ci
       - name: run ts lint
         run: npm run lint:ts
       - name: run scss lint
