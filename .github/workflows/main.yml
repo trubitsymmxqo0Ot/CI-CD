@@ -2,7 +2,7 @@ name: Testing and linting application
 on: push
 jobs: 
   install:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps: 
       - name: get repository code
         uses: actions/checkout@v5
