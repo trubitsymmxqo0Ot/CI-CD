@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1757167249498" clover="3.2.0">
-  <project timestamp="1757167249499" name="All files">
+<coverage generated="1757494554379" clover="3.2.0">
+  <project timestamp="1757494554380" name="All files">
     <metrics statements="384" coveredstatements="366" conditionals="45" coveredconditionals="44" methods="33" coveredmethods="25" elements="462" coveredelements="435" complexity="0" loc="384" ncloc="384" packages="23" files="25" classes="25"/>
     <package name="app.providers.ErrorBoundary">
       <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
-      <file name="index.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\app\providers\ErrorBoundary\index.tsx">
+      <file name="index.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\app\providers\ErrorBoundary\index.tsx">
         <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="cond" truecount="1" falsecount="0"/>
@@ -12,7 +12,7 @@
     </package>
     <package name="app.providers.ErrorBoundary.ui">
       <metrics statements="60" coveredstatements="45" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="1"/>
-      <file name="BugButton.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\app\providers\ErrorBoundary\ui\BugButton.tsx">
+      <file name="BugButton.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\app\providers\ErrorBoundary\ui\BugButton.tsx">
         <metrics statements="30" coveredstatements="28" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -45,7 +45,7 @@
         <line num="29" count="1" type="stmt"/>
         <line num="30" count="1" type="stmt"/>
       </file>
-      <file name="ErrorBoundary.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\app\providers\ErrorBoundary\ui\ErrorBoundary.tsx">
+      <file name="ErrorBoundary.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\app\providers\ErrorBoundary\ui\ErrorBoundary.tsx">
         <metrics statements="30" coveredstatements="17" conditionals="1" coveredconditionals="1" methods="3" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -81,7 +81,7 @@
     </package>
     <package name="app.providers.ThemeProviders">
       <metrics statements="3" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
-      <file name="index.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\app\providers\ThemeProviders\index.tsx">
+      <file name="index.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\app\providers\ThemeProviders\index.tsx">
         <metrics statements="3" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
         <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
         <line num="2" count="1" type="cond" truecount="1" falsecount="0"/>
@@ -90,7 +90,7 @@
     </package>
     <package name="app.providers.ThemeProviders.lib">
       <metrics statements="33" coveredstatements="33" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
-      <file name="ThemeContext.ts" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\app\providers\ThemeProviders\lib\ThemeContext.ts">
+      <file name="ThemeContext.ts" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\app\providers\ThemeProviders\lib\ThemeContext.ts">
         <metrics statements="12" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="cond" truecount="1" falsecount="0"/>
@@ -105,7 +105,7 @@
         <line num="11" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
       </file>
-      <file name="useTheme.ts" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\app\providers\ThemeProviders\lib\useTheme.ts">
+      <file name="useTheme.ts" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\app\providers\ThemeProviders\lib\useTheme.ts">
         <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -132,7 +132,7 @@
     </package>
     <package name="app.providers.ThemeProviders.ui">
       <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <file name="ThemeProvider.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\app\providers\ThemeProviders\ui\ThemeProvider.tsx">
+      <file name="ThemeProvider.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\app\providers\ThemeProviders\ui\ThemeProvider.tsx">
         <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -163,7 +163,7 @@
     </package>
     <package name="pages.AboutPage.ui">
       <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="AboutPage.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\pages\AboutPage\ui\AboutPage.tsx">
+      <file name="AboutPage.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\pages\AboutPage\ui\AboutPage.tsx">
         <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -179,7 +179,7 @@
     </package>
     <package name="pages.MainPage.ui">
       <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="MainPage.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\pages\MainPage\ui\MainPage.tsx">
+      <file name="MainPage.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\pages\MainPage\ui\MainPage.tsx">
         <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -195,7 +195,7 @@
     </package>
     <package name="pages.NotFoundPage.ui">
       <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="NotFoundPage.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\pages\NotFoundPage\ui\NotFoundPage.tsx">
+      <file name="NotFoundPage.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\pages\NotFoundPage\ui\NotFoundPage.tsx">
         <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -211,7 +211,7 @@
     </package>
     <package name="shared.config.i18n">
       <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="i18nForTest.ts" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\shared\config\i18n\i18nForTest.ts">
+      <file name="i18nForTest.ts" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\shared\config\i18n\i18nForTest.ts">
         <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -233,7 +233,7 @@
     </package>
     <package name="shared.lib.classNames">
       <metrics statements="14" coveredstatements="14" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
-      <file name="classNames.ts" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\shared\lib\classNames\classNames.ts">
+      <file name="classNames.ts" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\shared\lib\classNames\classNames.ts">
         <metrics statements="14" coveredstatements="14" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="33" type="cond" truecount="1" falsecount="0"/>
@@ -253,7 +253,7 @@
     </package>
     <package name="shared.lib.tests">
       <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="renderWithTranslation.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\shared\lib\tests\renderWithTranslation.tsx">
+      <file name="renderWithTranslation.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\shared\lib\tests\renderWithTranslation.tsx">
         <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -267,7 +267,7 @@
     </package>
     <package name="shared.ui.AppLink">
       <metrics statements="33" coveredstatements="33" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <file name="AppLink.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\shared\ui\AppLink\AppLink.tsx">
+      <file name="AppLink.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\shared\ui\AppLink\AppLink.tsx">
         <metrics statements="33" coveredstatements="33" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -306,7 +306,7 @@
     </package>
     <package name="shared.ui.Button">
       <metrics statements="27" coveredstatements="27" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <file name="Button.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\shared\ui\Button\Button.tsx">
+      <file name="Button.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\shared\ui\Button\Button.tsx">
         <metrics statements="27" coveredstatements="27" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -339,7 +339,7 @@
     </package>
     <package name="shared.ui.Loaders">
       <metrics statements="13" coveredstatements="13" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="Loaders.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\shared\ui\Loaders\Loaders.tsx">
+      <file name="Loaders.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\shared\ui\Loaders\Loaders.tsx">
         <metrics statements="13" coveredstatements="13" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -358,7 +358,7 @@
     </package>
     <package name="widgets.Header.ui">
       <metrics statements="30" coveredstatements="30" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="Header.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\Header\ui\Header.tsx">
+      <file name="Header.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\Header\ui\Header.tsx">
         <metrics statements="30" coveredstatements="30" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -394,14 +394,14 @@
     </package>
     <package name="widgets.LanguageSwitcher">
       <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="index.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\LanguageSwitcher\index.tsx">
+      <file name="index.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\LanguageSwitcher\index.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
       </file>
     </package>
     <package name="widgets.LanguageSwitcher.ui">
       <metrics statements="10" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
-      <file name="LanguageSwitcher.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\LanguageSwitcher\ui\LanguageSwitcher.tsx">
+      <file name="LanguageSwitcher.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\LanguageSwitcher\ui\LanguageSwitcher.tsx">
         <metrics statements="10" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -417,14 +417,14 @@
     </package>
     <package name="widgets.PageError">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <file name="index.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\PageError\index.tsx">
+      <file name="index.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\PageError\index.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
       </file>
     </package>
     <package name="widgets.PageError.ui">
       <metrics statements="16" coveredstatements="15" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
-      <file name="PageError.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\PageError\ui\PageError.tsx">
+      <file name="PageError.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\PageError\ui\PageError.tsx">
         <metrics statements="16" coveredstatements="15" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -446,7 +446,7 @@
     </package>
     <package name="widgets.PageLoader.ui">
       <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="PageLoader.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\PageLoader\ui\PageLoader.tsx">
+      <file name="PageLoader.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\PageLoader\ui\PageLoader.tsx">
         <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -461,7 +461,7 @@
     </package>
     <package name="widgets.Sidebar.ui.Sidebar">
       <metrics statements="38" coveredstatements="38" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
-      <file name="Sidebar.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\Sidebar\ui\Sidebar\Sidebar.tsx">
+      <file name="Sidebar.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\Sidebar\ui\Sidebar\Sidebar.tsx">
         <metrics statements="38" coveredstatements="38" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -505,14 +505,14 @@
     </package>
     <package name="widgets.ThemeSwitcher">
       <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <file name="index.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\ThemeSwitcher\index.tsx">
+      <file name="index.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\ThemeSwitcher\index.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
       </file>
     </package>
     <package name="widgets.ThemeSwitcher.ui">
       <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
-      <file name="ThemeSwitcher.tsx" path="C:\Users\maxtr\Desktop\pets project\ulbi-tv\src\widgets\ThemeSwitcher\ui\ThemeSwitcher.tsx">
+      <file name="ThemeSwitcher.tsx" path="C:\Users\maxtr\Desktop\Пары\CI-CD\src\widgets\ThemeSwitcher\ui\ThemeSwitcher.tsx">
         <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
